@@ -1,5 +1,10 @@
 ## 🌷 Hi! I'm Iris 
-I'm a computer science and statistics student at the University of Waterloo interested in creating tech to make life better. 
+- Computer science and statistics student at the University of Waterloo
+- Interested in backend software development, robotics, and sustainable technology
+- Learning about information retrieval and computer vision
+- I like baking, badminton, board games, audiobook, and cats
+
+I'm always looking for opportunities to learn and problem solve. You can reach me at: [email](mailto:i3mo@uwaterloo.ca) • [linkedin](https://www.linkedin.com/in/iris-zq-mo/)
 
 <!--
 **Irisimoo/Irisimoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
