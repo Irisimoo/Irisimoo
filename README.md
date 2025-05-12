@@ -1,8 +1,8 @@
 ## 🌷 Hi! I'm Iris 
-- Computer science and statistics student at the University of Waterloo
-- Interested in backend software development, robotics, and sustainable technology
-- Learning about information retrieval and computer vision
-- I like baking, badminton, board games, audiobook, and cats
+- 💻 Computer science and statistics student at the University of Waterloo
+- 💭 Interested in backend software development, robotics, and sustainable technology
+- 🌱 Learning about information retrieval and computer vision
+- 💗 I like baking, badminton, board games, audiobook, and cats
 
 I'm always looking for opportunities to learn and problem solve. You can reach me at: [email](mailto:i3mo@uwaterloo.ca) • [linkedin](https://www.linkedin.com/in/iris-zq-mo/)
 
