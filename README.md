@@ -10,7 +10,7 @@
 
 I'm always looking for opportunities to learn and problem solve. You can reach me at: [email](mailto:i3mo@uwaterloo.ca) • [linkedin](https://www.linkedin.com/in/iris-zq-mo/)
 
-<details open>
+<details>
   <summary><strong>🔍 My Tech Stack</strong></summary>
 
   * **languages:** java, c++, c, python, go (golang), typesript, javascript, r, html, css, sql
