@@ -1,22 +1,21 @@
-## 🌷 Hi! I'm Iris 
+## 🌷 Hi! I'm Iris
 - 💻 Computer science and statistics student at the University of Waterloo
-- 💭 Interested in backend software development, robotics, and sustainable technology
+- 💭 Interested in backend software development, robotics, big data, and sustainable technology
+- 😽 I like baking, badminton, board games, audiobooks, and cats
+
+**What I've been up to**
 - 🌱 Learning about information retrieval and computer vision
-- 💗 I like baking, badminton, board games, audiobook, and cats
+- 🔬 Researching robot vision-language-action models for navigation and path planning
+- 💗 Fostering an inclusive tech community as an executive for [UW WiCS](https://wics.uwaterloo.ca/)
 
 I'm always looking for opportunities to learn and problem solve. You can reach me at: [email](mailto:i3mo@uwaterloo.ca) • [linkedin](https://www.linkedin.com/in/iris-zq-mo/)
 
-<!--
-**Irisimoo/Irisimoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+  <summary><strong>🔍 My Tech Stack</strong></summary>
 
-Here are some ideas to get you started:
+  * **languages:** java, c++, c, python, go (golang), typesript, javascript, r, html, css, sql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * **libraries/frameworks:** spring boot, react, react native, angular, next.js, node.js, flask, pytorch, sklearn, pandas, matplotlib, seaborn
+
+  * **development tools:** docker, git, jenkins, linux, mongodb, postgresql, figma, rabbitmq, redis, google cloud, aws (ec2, aws), postman
+</details>
