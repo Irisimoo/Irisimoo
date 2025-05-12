@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🌷 Hi! I'm Iris 
+I'm a computer science and statistics student at the University of Waterloo interested in creating tech to make life better. 
 
 <!--
 **Irisimoo/Irisimoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
