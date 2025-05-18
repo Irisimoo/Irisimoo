@@ -4,7 +4,6 @@
 - 😽 I like baking, badminton, board games, audiobooks, and cats
 
 **What I've been up to**
-- 🌱 Learning about information retrieval and computer vision
 - 🔬 Researching robot vision-language-action models for navigation and path planning
 - 💗 Fostering an inclusive tech community as an executive for [UW WiCS](https://wics.uwaterloo.ca/)
 
