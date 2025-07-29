@@ -16,5 +16,5 @@ I'm always looking for opportunities to learn and problem solve. You can reach m
 
   * **libraries/frameworks:** spring boot, react, react native, angular, next.js, node.js, flask, pytorch, sklearn, pandas, matplotlib, seaborn
 
-  * **development tools:** docker, git, jenkins, linux, mongodb, postgresql, figma, rabbitmq, redis, google cloud, aws (ec2, s3), postman
+  * **development tools:** docker, git, jenkins, linux, mongodb, mysql, postgresql, figma, rabbitmq, redis, google cloud, aws, postman
 </details>
