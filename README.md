@@ -1,6 +1,6 @@
 ## 🌷 Hi! I'm Iris
 - 💻 Computer science and statistics student at the University of Waterloo
-- 💭 Interested in backend software development, robotics, big data, and sustainable technology
+- 💭 Interested in backend software development, robotics, and sustainable technology
 - 😽 I like baking, badminton, board games, audiobooks, and cats
 
 **What I've been up to**
@@ -10,7 +10,7 @@
 I'm always looking for opportunities to learn and problem solve. You can reach me at: [email](mailto:i3mo@uwaterloo.ca) • [linkedin](https://www.linkedin.com/in/iris-zq-mo/)
 
 <details>
-  <summary><strong>🔍 My Tech Stack</strong></summary>
+  <summary><strong>⚙️ My Tech Stack</strong></summary>
 
   * **languages:** java, c++, c, python, go (golang), typesript, javascript, r, html, css, sql
 
